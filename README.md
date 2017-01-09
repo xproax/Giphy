@@ -16,7 +16,7 @@ The Giphy API is open to the public. We have instituted a simple, single public 
 Please use this key while you develop your application and experiment with your integrations. Note: the public key is subject to rate limit constraints and we do not encourage live production deployments to use the public key.
 
 #### Request a Production Key
-Once you’re ready to use the Giphy API in production, please visit [api.giphy.com/submit](http://api.giphy.com/submit) to request a production API key. In your submission, please be prepared to provide the following:
+Once you’re ready to use the Giphy API in production, please visit [api.giphy.com/submit](http://ouo.io/za38E9) to request a production API key. In your submission, please be prepared to provide the following:
 
 + Your app name with brief description, web / app store links, etc.
 
